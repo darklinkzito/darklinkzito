@@ -1,7 +1,7 @@
 ## Olá eu sou o André Luiz, criador de conteúdo e programador Front-End!
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/darklinkzito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darklinkzito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darklinkzito&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
